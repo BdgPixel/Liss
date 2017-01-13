@@ -24,7 +24,7 @@ export default class AllCategories extends Component{
               <Text>Ask Me Anything</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/community.png')} />
+              <Thumbnail source={require('../images/brand.png')} />
               <Text>Branded Content</Text>
             </ListItem>
             <ListItem>
@@ -44,35 +44,35 @@ export default class AllCategories extends Component{
               <Text>Engineering</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/story.png')} />
               <Text>Founding Story</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/investment.png')} />
               <Text>Investment</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
-              <Text>Opinions</Text>
+              <Thumbnail source={require('../images/mobile.png')} />
+              <Text>Mobile</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/new.png')} />
               <Text>New</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/opinions.png')} />
               <Text>Opinions</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/recruitment.png')} />
               <Text>Recruitment</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/startup.png')} />
               <Text>Startup</Text>
             </ListItem>
             <ListItem>
-              <Thumbnail source={require('../images/engineer.png')} />
+              <Thumbnail source={require('../images/topnews.png')} />
               <Text>Top Story</Text>
             </ListItem>
           </List>
